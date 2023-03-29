@@ -1,7 +1,7 @@
 {
   "name": "digital_business_card",
   "version": "0.1.0",
-  "homepage": "https://AvyukthReddy.github.io/Digital_Business_Card",
+  "homepage": "https://AvyukthReddy.github.io/Digital-Business-Card",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
